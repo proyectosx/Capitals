@@ -60,7 +60,7 @@
 
 		<div class="footer">
 				<div>
-						<strong>IA 2017 <br> Made by: Giovanni Sinai Silva Barragán</strong>
+						<strong>IA 2017 <br>Giovanni Sinai Silva Barragán</strong>
 				</div>
 		</div>
 
